@@ -94,7 +94,7 @@ def menu():
 
         elif choice in ['h', 'H']:
             os.system('cls')
-            script_path = os.path.join('Support', 'Support.py')
+            script_path = os.path.join('settings', 'Support', 'Support.py')
             if os.path.isfile(script_path):
                 subprocess.run(['python', script_path])
 
@@ -528,4 +528,5 @@ def menu():
 
 if __name__ == "__main__":
     menu()
+
     
