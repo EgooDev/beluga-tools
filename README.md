@@ -249,3 +249,13 @@ If you want, I can also generate a:
 * Full documentation of the 120 Beluga options
 
 Just ask.
+
+# ⚠️ EDUCATIONAL ONLY
+
+## This tool is strictly designed for cybersecurity education, learning, and authorized security testing.
+
+Unauthorized use, illegal scanning, harassment automation, or exploitation of systems without explicit permission is strictly forbidden.
+
+Use Beluga only on environments you own or have written authorization to test.
+
+The developers are not responsible for misuse of this software.
