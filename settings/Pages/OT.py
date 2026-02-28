@@ -55,7 +55,7 @@ while True:
 
     elif choice in ['h', 'H']:
         os.system('cls')
-        script_path = os.path.join('Support', 'Support.py')
+        script_path = os.path.join('settings', 'Support', 'Support.py')
         if os.path.isfile(script_path):
             subprocess.run(['python', script_path])
 
@@ -186,3 +186,4 @@ while True:
         script_path = os.path.join('settings', 'OthersTools', 'dawa4real', 'install.py')
         if os.path.isfile(script_path):
             subprocess.run(['python', script_path])
+
