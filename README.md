@@ -1,5 +1,7 @@
 # Beluga — Cybersecurity Automation & Intelligence Tool
-
+<p align="center">
+  <img src="https://i.imgur.com/5WaB7le.png" width="600">
+</p>
 ```
 ██████  ███████ ██      ██    ██  ██████   █████  
 ██   ██ ██      ██      ██    ██ ██       ██   ██ 
