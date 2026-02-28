@@ -103,7 +103,7 @@ Start interactions with:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/egoodev/beluga.git
+git clone https://github.com/EgooDev/beluga-tools
 cd beluga
 ```
 
